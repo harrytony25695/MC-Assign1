@@ -1,0 +1,4 @@
+#input radius=r
+r=int(input("ENTER THE RADIUS:"))
+Area=3.14*r**2
+print(Area)
